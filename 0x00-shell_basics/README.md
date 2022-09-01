@@ -1,2 +1,2 @@
 
-working on task 0 on 0x00-shell_basics
+working on shell permissions
